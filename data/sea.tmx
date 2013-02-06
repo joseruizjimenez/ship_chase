@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="150" tilewidth="4" tileheight="4">
+ <tileset firstgid="1" name="collision" tilewidth="4" tileheight="4">
+  <image source="collision.png" width="80" height="32"/>
+ </tileset>
+ <imagelayer name="sea" width="200" height="150">
+  <image source="sea.jpg"/>
+ </imagelayer>
+ <layer name="collision" width="200" height="150" opacity="0.32">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3TAQ0AMAjAMPBv+gLIrqBNJmE7MyspAy5/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9A8wc0f0DzBzR/QPMHNH9AW0nfHofzuzLA1AEA
+  </data>
+ </layer>
+</map>
